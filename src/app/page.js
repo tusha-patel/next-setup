@@ -7,6 +7,7 @@ export default function Home() {
         <User name="kishu" />
         <User name="riya" />
         <User name="isha" />
+        <User name="tisha" />
       </main>
     </div>
   );
